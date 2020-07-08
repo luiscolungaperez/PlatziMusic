@@ -1,6 +1,5 @@
-# SpotifyClone
-
-## Este es el inicio del proyecto SpotifyClone
+# PlatziMusic
+## Este es el inicio del proyecto PlatziMusic
 
 El equipo de frontend esta aqui :v
 
